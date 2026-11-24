@@ -58,3 +58,4 @@ Feature importance tells you how much each input feature influences the model's 
 
 ![Individual Feature Explanations](../../assets/individual-feature.png)
 
+## [[Unit 9 - Module assessment| Next Unit > Module assessment]]
